@@ -1771,7 +1771,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/Mws_Files')
         ],[
             InlineKeyboardButton('🔍 ɢʀᴏᴜᴘ¹', url='https://t.me/+gAOAWKXypzk3MThl'),
-            InlineKeyboardButton('ɢʀᴏᴜᴘ² 🔎', url='https://t.me/+gAOAWKXypzk3MThl')
+            InlineKeyboardButton('ɢʀᴏᴜᴘ² 🔎', url='https://t.me/+beNn3crI7083Nzg9')
         ],[
             InlineKeyboardButton('✉️ ʀᴇǫᴜᴇꜱᴛ ɢʀᴏᴜᴘ ✉️', url='https://t.me/+gAOAWKXypzk3MThl')
         ],[
