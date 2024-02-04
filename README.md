@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://telegra.ph/file/6fa70325813885809a64a.jpg](https://telegra.ph/file/bad2719e7e70e4496fd3a.jpg)" alt="MOVIE FLICKS BOT Logo">
+  <img src="[https://telegra.ph/file/6fa70325813885809a64a.jpg]([https://telegra.ph/file/bad2719e7e70e4496fd3a.jpg](https://telegra.ph/file/6fa70325813885809a64a.jpg))" alt="MOVIE FLICKS BOT Logo">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/Movieflicksk_bot">MOVIE FLICKS BOT</a>
